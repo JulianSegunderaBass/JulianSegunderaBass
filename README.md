@@ -5,8 +5,9 @@ I'm an aspiring web developer, but I've mostly been studying the front-end stack
 ---
 
 ### I'm currently learning:
-* **React** - I've been looking into React in the context of building websites.
-* **CSS** - I'm practicing with web styling and animation.
+* **React** - I've been looking into React in the context of building websites. I enjoy the component-division system and I find it really helps segment parts of a website for specific functions and editing.
+* **Vue** - I've recently started studying Vue, but I've only gotten so far as the bare bones of a Vue site with data, computed properties and watchers.
+* **CSS** - I'm practicing with web styling, animation and mobile-responsive approaches.
 
 ---
 
