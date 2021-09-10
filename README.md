@@ -1,19 +1,30 @@
-### I'm a student from Asia Pacific College in Makati here in The Philippines
-
-I'm an aspiring web developer, but I've mostly been studying the front-end stack for now, and I hope to eventually reach out to being a full-stack developer. Aside from programming, I also enjoy reading and writing stories (preferrably scary ones) when I have the time, particularly on Reddit. 😄
+### I'm a student from Asia Pacific College in Makati here in The Philippines 😄
 
 ---
 
-### I'm currently learning:
-* **React** - I've been looking into React in the context of building websites. I enjoy the component-division system and I find it really helps segment parts of a website for specific functions and editing.
-* **Vue** - I've recently started studying Vue, but I've only gotten so far as the bare bones of a Vue site with data, computed properties and watchers.
-* **CSS** - I'm practicing with web styling, animation and mobile-responsive approaches.
+#### Tools I'm learning:
+
+![React](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=0e4be6)
+![Vue](https://img.shields.io/badge/Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=36c770)
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=067a10)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=067a10)
+![Firebase](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=orange)
+![VSCode](https://img.shields.io/badge/VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=0417c7)
 
 ---
 
-### Reach me here:
+#### Reach me here:
 * **LinkedIn** - www.linkedin.com/in/julian-terry-bass-601434192
 * **Email** - julianterrybass@gmail.com
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JulianSegunderaBass&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianSegunderaBass&layout=compact&hide=Hack&theme=github_dark" />
+</a>
 
 <!--
 **JulianSegunderaBass/JulianSegunderaBass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
