@@ -22,7 +22,7 @@ I enjoy the self-study experience as a Computer Science student. Be it a quick v
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JulianSegunderaBass&count_private=true&show_icons=true&hide_border=TRUE&theme=github_dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JulianSegunderaBass&count_private=true&include_all_commits=TRUE&custom_title=My Stats&show_icons=true&hide_border=TRUE&hide_rank=TRUE&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianSegunderaBass&layout=compact&hide=Hack&hide_border=TRUE&theme=github_dark" />
