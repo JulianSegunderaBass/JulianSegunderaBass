@@ -1,8 +1,10 @@
-### I'm a student from Asia Pacific College in Makati here in The Philippines 😄
+### I'm a student from Asia Pacific College here in The Philippines 😄
+
+I enjoy the self-study experience as a Computer Science student. Be it a quick video on Youtube or a fully-fledged course path online; the apples don't fall too far from the tree we all know and love.
 
 ---
 
-#### Tools I'm learning:
+#### Tools I'm learning
 
 ![React](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=0e4be6)
 ![Vue](https://img.shields.io/badge/Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=36c770)
@@ -13,14 +15,14 @@
 
 ---
 
-#### Reach me here:
+#### Connect with me 🙂
 * **LinkedIn** - www.linkedin.com/in/julian-terry-bass-601434192
 * **Email** - julianterrybass@gmail.com
 
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JulianSegunderaBass&count_private=true&show_icons=true&theme=github_dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JulianSegunderaBass&count_private=true&show_icons=true&card_width=2&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianSegunderaBass&layout=compact&hide=Hack&theme=github_dark" />
