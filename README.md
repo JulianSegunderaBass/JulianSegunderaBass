@@ -2,6 +2,8 @@
 
 I enjoy the self-study experience as a Computer Science student. Be it a quick video on Youtube or a fully-fledged course path online; the apples don't fall too far from the tree we all know and love.
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/julian-terry-bass-601434192/). 💬
+
 ---
 
 #### Tools I'm learning
@@ -12,14 +14,6 @@ I enjoy the self-study experience as a Computer Science student. Be it a quick v
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=067a10)
 ![Firebase](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=orange)
 ![VSCode](https://img.shields.io/badge/VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=0417c7)
-
----
-
-#### Connect with me 🙂
-* **LinkedIn** - www.linkedin.com/in/julian-terry-bass-601434192
-* **Email** - julianterrybass@gmail.com
-
----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JulianSegunderaBass&count_private=true&include_all_commits=TRUE&custom_title=My Stats&show_icons=true&hide_border=TRUE&theme=github_dark" />
