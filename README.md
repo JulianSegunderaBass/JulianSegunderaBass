@@ -4,6 +4,8 @@ I enjoy the self-study experience as a Computer Science student. Be it a quick v
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/julian-terry-bass-601434192/). 💬
 
+Check out my [devChallenges](https://devchallenges.io/portfolio/JulianSegunderaBass) profile. 💻
+
 ---
 
 #### Tools I'm learning
