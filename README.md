@@ -1,10 +1,8 @@
-### I'm a student from Asia Pacific College here in The Philippines 😄
+### I'm a graduating student from Asia Pacific College here in The Philippines 😄
 
-I enjoy the self-study experience as a Computer Science student. Be it a quick video on Youtube or a fully-fledged course path online; the apples don't fall too far from the tree we all know and love.
+I enjoy the self-study experience as a Computer Science student through online courses and certifications.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/julian-terry-bass-601434192/). 💬
-
-Check out my [devChallenges](https://devchallenges.io/portfolio/JulianSegunderaBass) and [HackerRank](https://www.hackerrank.com/julianterrybass) profiles. 💻
+Find me on [LinkedIn](https://www.linkedin.com/in/julian-terry-bass-601434192/) and [HackerRank](https://www.hackerrank.com/julianterrybass). 💬
 
 ---
 
@@ -22,8 +20,54 @@ Check out my [devChallenges](https://devchallenges.io/portfolio/JulianSegunderaB
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JulianSegunderaBass&count_private=true&include_all_commits=TRUE&custom_title=My Stats&show_icons=true&hide_border=TRUE&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulianSegunderaBass&count_private=true&include_all_commits=TRUE&custom_title=My Stats&show_icons=true&hide_border=TRUE&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianSegunderaBass&layout=compact&hide=html,Hack&langs_count=6&hide_border=TRUE&card_width=230&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianSegunderaBass&layout=compact&hide=html,Hack&langs_count=6&hide_border=TRUE&card_width=230&theme=github_dark" />
+</a>
+
+---
+
+### Projects
+
+<a href="https://github.com/JulianSegunderaBass/frankfurter-currency-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSegunderaBass&repo=frankfurter-currency-dashboard&theme=react&border_radius=0" />
+</a>
+
+<a href="https://github.com/JulianSegunderaBass/nasa-api-browser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSegunderaBass&repo=nasa-api-browser&theme=react&border_radius=0" />
+</a>
+
+<a href="https://github.com/JulianSegunderaBass/color-game-angular">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSegunderaBass&repo=color-game-angular&theme=react&border_radius=0" />
+</a>
+
+<a href="https://github.com/JulianSegunderaBass/magallanes-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSegunderaBass&repo=magallanes-react&theme=react&border_radius=0" />
+</a>
+
+<a href="https://github.com/JulianSegunderaBass/distancing-analytics-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSegunderaBass&repo=distancing-analytics-dashboard&theme=react&border_radius=0" />
+</a>
+
+### Activities from [devChallenges.io](https://devchallenges.io/)
+
+<a href="https://github.com/JulianSegunderaBass/ResponsiveWebDev_MyGallery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSegunderaBass&repo=ResponsiveWebDev_MyGallery&theme=react&border_radius=0" />
+</a>
+
+<a href="https://github.com/JulianSegunderaBass/ResponsiveWebDev_RecipePage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSegunderaBass&repo=ResponsiveWebDev_RecipePage&theme=react&border_radius=0" />
+</a>
+
+<a href="https://github.com/JulianSegunderaBass/ResponsiveWebDev_InteriorConsultant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSegunderaBass&repo=ResponsiveWebDev_InteriorConsultant&theme=react&border_radius=0" />
+</a>
+
+<a href="https://github.com/JulianSegunderaBass/ResponsiveWebDev_MyTeamPage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSegunderaBass&repo=ResponsiveWebDev_MyTeamPage&theme=react&border_radius=0" />
+</a>
+
+<a href="https://github.com/JulianSegunderaBass/ResponsiveWebDev_404NotFound">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianSegunderaBass&repo=ResponsiveWebDev_404NotFound&theme=react&border_radius=0" />
 </a>
