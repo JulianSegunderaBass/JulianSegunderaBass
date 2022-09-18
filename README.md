@@ -20,8 +20,9 @@ Find me on [LinkedIn](https://www.linkedin.com/in/julian-terry-bass-601434192/) 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulianSegunderaBass&count_private=true&include_all_commits=TRUE&custom_title=My Stats&show_icons=true&hide_border=TRUE&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulianSegunderaBass&count_private=true&include_all_commits=true&custom_title=Stats&show_icons=true&hide_border=true&theme=github_dark" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianSegunderaBass&layout=compact&hide=html,Hack&langs_count=6&hide_border=TRUE&card_width=230&theme=github_dark" />
 </a>
