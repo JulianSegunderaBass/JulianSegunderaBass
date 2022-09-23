@@ -1,6 +1,6 @@
-### I'm a graduating student from Asia Pacific College here in The Philippines 😄
+### I'm a BS Computer Science graduate studying web development here in The Philippines 😄
 
-I enjoy the self-study experience as a Computer Science student through online courses and certifications.
+I enjoy the self-study experience through online courses and certifications.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/julian-terry-bass-601434192/) and [HackerRank](https://www.hackerrank.com/julianterrybass). 💬
 
