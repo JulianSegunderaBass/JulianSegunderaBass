@@ -1,8 +1,8 @@
-### I'm a B.S. Computer Science graduate studying frontend web development here in The Philippines 😄
+### BS Computer Science Graduate studying Web Development and UI/UX Design
 
-I'm a computer science graduate working towards becoming a frontend web developer with experience in HTML, CSS, React, and Angular.
+With a foundation in software development and architecture (including experience as a Software Architect), I'm currently leveraging my Computer Science background with a specialization in Software Systems to improve my skill in User Interface (UI) and User Experience (UX) Design. I have front-end website development experience with HTML, CSS, JavaScript, and ReactJS along with development collaboration with Git and GitHub. I also use Figma to create user-centered application wireframes and mockups. I'm eager to use my background to gain real-world experience contributing to a team that prioritizes exceptional user journeys.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/julian-terry-bass-601434192/) and [HackerRank](https://www.hackerrank.com/julianterrybass). 💬
+Find me on [LinkedIn](https://www.linkedin.com/in/julian-terry-bass-601434192/). 💬
 
 ---
 
